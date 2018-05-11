@@ -106,5 +106,5 @@ def blockchain_disp():
 
 
 if __name__=="__main__":
-    app.run(host='192.168.0.105',port=303)
-    #app.run()uuuuuu
+    app.run(host='<enter the local system IPv4 address>',port=<enter a port number>)
+    app.run()
